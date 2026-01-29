@@ -1,0 +1,22 @@
+# ===== IntelliJ / Android Studio =====
+.idea/
+*.iml
+
+# ===== Gradle =====
+.gradle/
+build/
+
+# ===== Android build artifacts =====
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ===== Local configuration (DO NOT COMMIT) =====
+local.properties
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Logs =====
+*.log
